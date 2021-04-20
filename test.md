@@ -1,2 +1,2 @@
 ##Testing on conflict merge
-This line added at __Master__ branch 
+This line added at __Try__ branch 
